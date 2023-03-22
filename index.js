@@ -34,7 +34,7 @@ console.log(marks)
 function avg (a, b){
     c = (a + b)/2; 
     return  c;
-
+    console.log("test")
 
 }
 
